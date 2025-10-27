@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/github/issues/rafaelq80/aulas_java_t82?style=flat-square" />
 <img src="https://img.shields.io/github/issues-pr/rafaelq80/aulas_java_t82?style=flat-square" />
 <img src="https://img.shields.io/badge/status-construção-yellow" alt="Status: Em Construção">
-
+</div>
 
 
 ## 📋 Descrição
